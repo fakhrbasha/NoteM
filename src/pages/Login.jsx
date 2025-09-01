@@ -14,11 +14,8 @@ export default function Login() {
     const navigate = useNavigate();
   const { handleSubmit, register, formState: { errors }, reset } = useForm({
     defaultValues: {
-      name: "",
       email: "",
       password: "",
-      age: "",
-      phone: ""
     }
   })
 
@@ -50,7 +47,7 @@ export default function Login() {
     
     
     <form onSubmit={handleSubmit(handleRegister)} className=''>
-      <div className='flex flex-col gap-6'>
+      <div className='flex flex-col gap-3 xl:gap-6'>
         <h1 className='text-[#1ebbcc] text-center'>Login To Note</h1>
 
         

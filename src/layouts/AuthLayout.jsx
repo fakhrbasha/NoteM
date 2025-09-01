@@ -3,9 +3,9 @@ import { Outlet } from 'react-router-dom';
 
 export default function AuthLayout() {
     return (
-        <div className="h-screen flex justify-center items-center bg-gradient-to-r from-[#e3e4e4] to-[#eaf3eb]">
+        <div className="md:h-screen flex justify-center items-center bg-gradient-to-r from-[#e3e4e4] to-[#eaf3eb]">
             <div className="w-[90%] border-2 rounded-2xl bg-[#F9FFFb] border-[#1ebbcc] p-6 md:p-9">
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
                     
                     <div className="flex flex-col items-center text-center md:text-left">
                         <h1 className="text-3xl md:text-4xl py-6 md:py-16 font-bold italic">

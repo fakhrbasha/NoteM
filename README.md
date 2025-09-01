@@ -1,16 +1,42 @@
-# React + Vite
+# 📒 NoteM (Note Me)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NoteM is a simple and interactive note-taking web application.  
+The name **"NoteM"** comes from **"Note Me"**, and if you flip the letter **E**, it still reads the same 😉.  
 
-Currently, two official plugins are available:
+With NoteM, you can:  
+- Create your own notes 📝  
+- Edit your existing notes ✏️  
+- Delete notes you no longer need 🗑️  
+- View notes from other users 👥  
+- Manage your personal notes in your profile 📂  
+- Sign up and log in to securely access your account 🔐  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Authentication**: Login & Register system to keep your notes safe.  
+- **Feed**: See notes created by other users.  
+- **My Notes**: A dedicated section for your own notes.  
+- **CRUD Support**: Create, Read, Update, Delete notes with ease.  
+- **Responsive UI**: Clean, modern, and mobile-friendly design.  
 
-<h1>
-            
-          </h1>
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React + TailwindCSS  
+- **State Management**: TanStack Query (React Query)  
+- **UI Components**: HeroUI  
+- **Authentication**: JWT (JSON Web Token)  
+
+---
+
+## 🔑 How It Works
+
+1. **Register** a new account.  
+2. **Login** with your credentials.  
+3. **Create** notes that will appear in the feed.  
+4. **Edit or Delete** your notes anytime.  
+5. **Explore** notes made by others.  
+

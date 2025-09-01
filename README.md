@@ -39,4 +39,6 @@ With NoteM, you can:
 3. **Create** notes that will appear in the feed.  
 4. **Edit or Delete** your notes anytime.  
 5. **Explore** notes made by others.  
-
+---
+## Demo 
+- Visit <a href="https://note-m.vercel.app/login">NoteM</a>

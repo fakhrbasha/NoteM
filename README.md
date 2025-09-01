@@ -40,5 +40,19 @@ With NoteM, you can:
 4. **Edit or Delete** your notes anytime.  
 5. **Explore** notes made by others.  
 ---
-## Demo 
-- Visit <a href="https://note-m.vercel.app/login">NoteM</a>
+## 🔗 Visit the live demo
+
+You can try the app live at:  
+[Visit NoteM — Login page](https://note-m.vercel.app/login)
+
+## ⚠️ Quick troubleshooting (for users)
+Before reporting an error, try these steps — they fix most problems:
+
+1. Refresh the page (Ctrl/Cmd + R).  
+2. Clear browser cache and cookies for the site.  
+3. Try an incognito/private window.  
+4. Ensure your internet connection is stable.  
+5. Confirm you are using a supported browser (Chrome, Firefox, Edge, Safari latest versions).  
+6. If the issue relates to login, make sure cookies and local storage are enabled.
+
+If none of the above helps, please report the bug.
